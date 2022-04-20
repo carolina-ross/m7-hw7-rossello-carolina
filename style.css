@@ -105,6 +105,14 @@ main article {
   padding: 48px 96px;
 }
 
+.first-letter {
+  float: left;
+  font-size: 80px;
+  line-height: 65px;
+  padding: 20px 28px 4px 0;
+  font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"	
+}
+
 main p {
   line-height: 1.75;
   margin-bottom: 48px;;
